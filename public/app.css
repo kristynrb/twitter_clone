@@ -1,0 +1,13 @@
+/*Application-wide styles go here*/
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  background-color: purple;
+}
